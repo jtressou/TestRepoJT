@@ -1,0 +1,46 @@
+---
+title: "Tuto Git Pour Les Nuls"
+author: Jessica Tressou
+output: learnr::tutorial
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Introduction
+Github est une plateforme qui permet de travailler en collaboration sur des fichiers de code (R, tex) et de gérer les différentes versions.
+Le [guide](https://guides.github.com/activities/hello-world/ "Guide_Github") se lit en 10 minutes et exeplique la création/gestion des *dossiers* / `repository`, de *branches* `forked`, `commit` et `pull`. 
+
+### Installation
+
+Créer un compte sur https://github.com/, et s'assurer d'avoir accès à Internet
+
+Clé SSH : peut simplifier l'accès au repository...
+
+## Créer et utiliser un repository
+
+Un `repository` peut contenir des dossiers et toutes sortes de fichiers associés au projet, idéalement un fichier README qui explique ce que sont les diférents fichiers et dossiers.
+
+Depuis son compte Github sur Firefox, on peut créer son `repository`.
+
+## Créer et gérer une nouvelle branche
+
+Une branche est une copie du dossier sur laquelle on fera des modifs qui pourront être fusionnées avec la branche d'origine le moment venu.
+
+Depuis son compte Github sur Firefox, on peut créer une branche sur son `repository`, lui choisir un nom
+
+
+## Faire des modifs sur un fichier, faire un commit puis un pull (a pull request)
+
+On peut faire des modifs directement dans un fichier, ffaire un commit quand on a fini puis faire une pull request pour valider cette modif.
+
+## Clone d'un repository
+
+on peut récupérer en local le contenu d'un repository par l'opération `clone`
+
+
+
+## Open and merge a pull request
+
+
