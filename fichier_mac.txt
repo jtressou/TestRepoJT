@@ -1,5 +1,12 @@
 j'ajoute ce fichier en ligne 
+<<<<<<< HEAD
 et je le modifie en local
 
 
 modif sb 18:23
+=======
+
+
+et je le modifie en local
+
+>>>>>>> 70e197b2cb1c8554afd1c4de07876ca797559da3
