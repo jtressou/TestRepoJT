@@ -1,3 +1,6 @@
 git add SB_file.txt  # pour ajouter un fichier
 git commit -m 'ajout d'un ficher de commandes' # pour prendre en compte les modif
 git push # pour envoyer les modif sur github.com
+
+
+modif en ligne
