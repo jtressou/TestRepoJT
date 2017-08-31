@@ -1,4 +1,4 @@
-﻿j'ajoute ce fichier en ligne 
+j'ajoute ce fichier en ligne 
 
 c’est la motif de jess
 et je le modifie 
@@ -6,6 +6,15 @@ et je le modifie
 
 modif sb 18:23
 
+modify de jess 18:50
+modif sb 18:36 c’était pas fini
+
 modif sb 18:36
 
 modif sb 18:50
+<<<<<<< HEAD
+
+
+modif sb 19:11
+=======
+>>>>>>> 7c36bee0d280bb1c32131d353de8e6fa45e0ae04
